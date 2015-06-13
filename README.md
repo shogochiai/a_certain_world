@@ -1,4 +1,4 @@
 # a_certain_world
-github based meta fiction
+githubベースのメタフィクション
 
-Every each commit and directory have their meaning.
+全てのコミットとディレクトリ構造が意味を持つ小説

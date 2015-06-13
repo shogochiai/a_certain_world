@@ -1,4 +1,4 @@
-# LICENSE
-- There's no specific license. But if you have some good idea, please tell me.
-- All I wanted to do is just suggesting this new writing style based on github.
-- And let this SF story spread to all over the world.
+# ライセンスについて
+- 特にこれといったライセンスはありません。しかし、二次創作やフォークが自由にできる上手い方法を知っている方がおりましたら、情報提供をお待ちしております。
+- 私がやりたいことは、githubを用いた新しい読書体験の提供と
+- 私の思い描く最高のSFが世界中の人に楽しんでもらえることだけです
